@@ -1,0 +1,3 @@
+# simple-website #
+###A plain HTML/CSS/JS web site###
+Get started with web development by learning how to use HTM, CSS and Javascript to build a website. Is what I do with this website cloned on the web some time ago, I don't remember where or why, I just liked it and downloaded it. I publish it here as an example of simple but non-trivial web development, from which you can certainly learn something useful.
